@@ -1,0 +1,7 @@
+C:\Users\Yuri.Peixinho\source\repos\pratica1\bin\Debug\pratica1.exe.config
+C:\Users\Yuri.Peixinho\source\repos\pratica1\bin\Debug\pratica1.exe
+C:\Users\Yuri.Peixinho\source\repos\pratica1\bin\Debug\pratica1.pdb
+C:\Users\Yuri.Peixinho\source\repos\pratica1\obj\Debug\pratica1.csproj.AssemblyReference.cache
+C:\Users\Yuri.Peixinho\source\repos\pratica1\obj\Debug\pratica1.csproj.CoreCompileInputs.cache
+C:\Users\Yuri.Peixinho\source\repos\pratica1\obj\Debug\pratica1.exe
+C:\Users\Yuri.Peixinho\source\repos\pratica1\obj\Debug\pratica1.pdb
